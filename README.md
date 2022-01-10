@@ -1,2 +1,2 @@
 # Flowerstore
-Check the [Live]() project
+Check the [Live](https://shreyash00007.github.io/flowerstore/) project
