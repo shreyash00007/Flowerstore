@@ -1,6 +1,6 @@
 # Flowerstore
 
-It is web page for a Flowerstore with responsive layout
+It is a Website for a Flowerstore, made using HTML & CSS
 
 <!--link-->
 
